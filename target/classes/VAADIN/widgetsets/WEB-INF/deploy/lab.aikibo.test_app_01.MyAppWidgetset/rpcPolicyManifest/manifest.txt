@@ -1,0 +1,2 @@
+# Module lab.aikibo.test_app_01.MyAppWidgetset
+# RPC service class, partial path of RPC policy file
